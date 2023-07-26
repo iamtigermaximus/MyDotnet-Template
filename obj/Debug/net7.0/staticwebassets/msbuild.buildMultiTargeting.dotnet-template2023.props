@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/dotnet-template2023.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3bWWJ5UUhCIlofiz1df7d4dbBkDSsSQtVEFcS6mm1NU=",
+  "Source": "dotnet-template2023",
+  "BasePath": "_content/dotnet-template2023",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
